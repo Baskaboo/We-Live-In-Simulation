@@ -1,6 +1,6 @@
 # 🕶️ WE LIVE IN SIMULATION (The Reality OS Engine Room)
 
-> *"I want to destroy reality we are trained to see. From the ruins of reality, I create a model that aims to explain the universe, accelerate evolution, simplify our thinking and enhance the pleasure in our lives."*  
+> *"I want to destroy reality we are trained to see. From the ruins of reality, I create a model that aims to explain mind and universe, accelerate evolution, simplify our thinking and enhance the pleasure in our lives."*  
 > — **The Baskaboo Manifesto**
 
 ---
