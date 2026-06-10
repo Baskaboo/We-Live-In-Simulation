@@ -56,7 +56,7 @@ From *Pits, Mits, Klop and Laram* by Nikos Markopoulos: https://www.amazon.de/dp
 ### **v1.1 Aristotle.PatternMatch (335 BC)**
 **Commit message:** "True understanding = identifying common characteristics in different things."  
 **What happened:** Aristotle gave us the core algorithm for Reality OS: *Ignore appearance. Match by behavior and function.* If 2 things act the same, they ARE the same at code level.  
-**Why it matters:** This is the root of `Magic-Match-Table.md`. Pits, Mits, Klop, Laram were discovered by applying Aristotle:  
+**Why it matters:** This is the root of https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md. Pits, Mits, Klop, Laram were discovered by applying Aristotle:  
 - A human desire, a star's energy, and a quantum field all **behave** as Pits.  
 - A rock, a rule, and a neutron all **behave** as Mits.  
 **Simulator Response:** "User discovered pattern matching. Unlocking FSFR debugger."  
