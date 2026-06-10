@@ -5,6 +5,10 @@
 
 ---
 
+<img width="864" height="1184" alt="IMG_2534" src="https://github.com/user-attachments/assets/934e2bde-1856-4e5b-a75d-0666ac2950bd" />
+
+---
+
 ## ⚡ Wake Up, Player. You Are Inside a Changelog.
 
 Mainstream physics, institutionalized academia, and daily human perception tell you that the universe is a static, chaotic, physical structure. **They are wrong.** They are looking at the screen and measuring pixels, completely blind to the source code running the display.
