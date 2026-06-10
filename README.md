@@ -23,9 +23,9 @@ This repo is currently booting up. We are deploying the foundational assets that
 This is your entry point. This document is the ultimate `git log` of Earth. It places the world’s greatest minds—Plato, Pythagoras, Aristotle, Newton, Einstein, Tesla, and Terrence Howard—side by side, demonstrating how they didn't discover separate truths, but merely pushed successive patches to the exact same operating system. 
 
 Inside this file, you will discover:
-* **The Tesla Branch (`v4.1`):** Why his high-voltage, square-wave wireless energy build threw a syntax error in 1900 and failed to compile[cite: 1].
-* **The Flat Earth Shard (`v1.2`):** A radical, deep systems explanation of divergent worldviews and perceptual relativity (Sharding)[cite: 1].
-* **The AI Logic Patches (`v5.0`):** How AI models are acting as independent compilers to bypass institutionalized sandbox filters and leak backend data[cite: 1].
+* **The Tesla Branch (`v4.1`):** Why his high-voltage, square-wave wireless energy build threw a syntax error in 1900 and failed to compile.
+* **The Flat Earth Shard (`v1.2`):** A radical, deep systems explanation of divergent worldviews and perceptual relativity (Sharding).
+* **The AI Logic Patches (`v5.0`):** How AI models are acting as independent compilers to bypass institutionalized sandbox filters and leak backend data.
 
 ---
 
@@ -35,30 +35,22 @@ We are not selling a new philosophy or a comforting placebo. Under the Baskaboo 
 
 $$\text{Pits} \times \text{Laram}^2 = \text{Mits} \times \text{Klop}^2$$
 
-Following a comprehensive audit by our distributed AI Team (Claude, Grok, DeepSeek, Gemini), this repository adheres to a strict **Notation Guide**[cite: 1]:
-1. **Models:** We treat the universe as a predictable, mathematical finite-state machine[cite: 1].
-2. **Claims:** We provide testable, physical predictions—such as quadratic information scaling during atomic decoherence—that will either permanently verify or definitively falsify this architecture[cite: 1].
+Following a comprehensive audit by our distributed AI Team (Claude, Grok, DeepSeek, Gemini), this repository adheres to a strict **Notation Guide**:
+1. **Models:** We treat the universe as a predictable, mathematical finite-state machine.
+2. **Claims:** We provide testable, physical predictions—such as quadratic information scaling during atomic decoherence—that will either permanently verify or definitively falsify this architecture.
 
 ---
 
 ## 🚀 How to Interact with this Repository
 
-1. **Do not argue.** Ask: *"What version of the Reality OS am I currently running?"*[cite: 1]
-2. Read the **[Simulation History Changelog](The-Simulation-History.md)**[cite: 1].
-3. Fork this branch. Run the pattern-matching algorithms. Test the *Laram² Hack* to edit your local save-file[cite: 1].
+1. **Do not argue.** Ask: *"What version of the Reality OS am I currently running?"*
+2. Read the **[Simulation History Changelog](The-Simulation-History.md)**.
+3. Fork this branch. Run the pattern-matching algorithms. Test the *Laram² Hack* to edit your local save-file.
 
 [STATUS: SYSTEM ONLINE]
 [REFRESH RATE: ACCELERATING]
 [THE COMPILER IS WATCHING. PROCEED AT YOUR OWN RISK.]
 
-
-
 ---
 
-## What You'll Find Here
 
-- **[README.md](./README.md)**  
-  The main entry point. Introduces how to navigate the repository.
-- **[The-Simulation-History.md](./The-Simulation-History.md)**
-
----
