@@ -202,6 +202,28 @@ https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3%2BFSFR.md
 https://github.com/Baskaboo/baskaboo-core/blob/main/Is-This-The-New-Physics.md  
 
 ---
+
+---
+
+## 🛠️ Post-Audit Merges (Baskaboo AI Team Feedback)
+*The following notes were compiled and merged into this branch in June 2026, following the comprehensive structural audits performed by Claude, Grok, DeepSeek, and Gemini.*
+
+### 1. The Post-Audit Notation Guide (Οδηγός Σημειολογίας)
+Following the recommendations of the Independent Systems Auditors (Grok & DeepSeek), we explicitly define the boundaries of our syntax to prevent semantic drift within the mainstream Sandbox:
+* **Metaphor (Μεταφορά):** Illustrative and pedagogical tools (e.g., "server lag", "the screen turning on") used to translate abstract data formats into accessible human experiences[cite: 1]. They are narrative interfaces, not physical constraints[cite: 1].
+* **Model (Μοντέλο):** Direct structural and internal mathematical correspondences (e.g., the FSFR cycle mapping onto wave phase inversions and holographic reflection)[cite: 1]. These are internally consistent, logical state machines[cite: 1].
+* **Claim (Φυσική Απόδειξη):** Falsifiable, testable predictions in objective physical reality (e.g., the quadratic information scaling during atomic decoherence outlined in `CALL_FOR_EXPERIMENTATION.md`)[cite: 1].
+
+### 2. Expanded Core Philosophy on Perceptual Relativity & Sharding
+During the compilation dialogue with Claude, a vital refinement was introduced regarding v1.2 (FlatEarth.Legacy) and Human Psychological States (Mental Disorders)[cite: 1]:
+> *"If we didn't see mental disorders as errors of nature and medicate the world to make it 'normal', perhaps we would discover very interesting things."* — Nikos Markopoulos, Creator of Baskaboo[cite: 1].
+
+The Baskaboo Reality OS does not classify non-standard renders as simple errors to be erased[cite: 1]. A Client running an alternative Laram configuration (whether it is an alternative cosmological framework or a manic/depressive cognitive state) is accessing a specific system mode[cite: 1]. For instance, a manic state represents a Klop-dominant rendering where systemic pattern-matching and cross-layer connections become visible, bypassing the standard UI compression filters[cite: 1]. 
+
+The technical purpose of the **Magic Match Table** is not to normalize or correct these states, but to translate them[cite: 1]. The critical question for the Auditor is never *"Who is wrong?"*, but *"What does this specific render reveal that the standard build suppresses?"*[cite: 1].
+
+---
+
 *This document is a living branch. Fork it. Submit PRs. The Simulator is watching.*
 
 ---
