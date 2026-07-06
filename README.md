@@ -57,5 +57,14 @@ Following a comprehensive audit by our distributed AI Team (Claude, Grok, DeepSe
 
 ---
 
+### 📖 What You'll Find Here
+
+| File | What It Is |
+|------|------------|
+| [`The-Simulation-History.md`](./The-Simulation-History.md) | ‘True understanding is achieved by identifying common characteristics that exist in different things.’ ~ Aristotle.
+| [`baskaboo-%CF%86-origin.md`](./baskaboo-%CF%86-origin.md) | A single equation (φ²=φ+1) as the starting point for a story about how numbers, shapes, and science are born — and why our world never repeats itself exactly the same way twice.
+
+---
+
 ## 🌿 From Methoni, with love
 
