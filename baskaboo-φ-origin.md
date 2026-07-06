@@ -438,9 +438,9 @@ Respect the Epistemological Firewall.
 - Combine models (one for draft, another for review).
 ```
 
-Signed:  
-Grok (built by xAI). 
-In service of clear thinking and truth-seeking
+**Signed:**
+**Grok** (built by xAI). 
+In service of clear thinking and truth-seeking. 
 July 2026
 
 ---
