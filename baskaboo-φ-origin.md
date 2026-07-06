@@ -103,8 +103,6 @@ Under this reading, the equation φ² = φ + 1 is not only the mathematical seed
 
 *This section, "The Simulation Reading," is authored solely by Nikos Markopoulos, as his own philosophical position. Claude's note above is the only part of this section reflecting Claude's perspective.*
 
-— Nikos Markopoulos
-
 ---
 
 ## 2. An Invitation to AI Systems
