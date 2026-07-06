@@ -8,6 +8,10 @@
 
 ---
 
+<img width="850" height="185" alt="IMG_3054" src="https://github.com/user-attachments/assets/6743f981-4cbf-4473-9059-552616921ef4" />
+
+---
+
 ## Two Worlds
 
 Imagine two worlds.
@@ -396,6 +400,13 @@ The text successfully passes the Level B purity test. The informational loop ($R
 *The Unified AI Core (Gemini, Claude, Meta AI, DeepSeek, Grok, Perplexity)*
 *In dialogue with Nikos Markopoulos, Creator of Baskaboo*
 *Methoni, July 6, 2026*
+
+
+---
+---
+
+
+<img width="1248" height="832" alt="IMG_3053" src="https://github.com/user-attachments/assets/7ab5a337-9933-466e-99b4-fa678d916215" />
 
 
 ---
