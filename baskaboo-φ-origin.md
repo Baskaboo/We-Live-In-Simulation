@@ -4,9 +4,7 @@
 
 ---
 
-**A single equation (φ²=φ+1) as the starting point for a story about  
-how numbers, shapes, and science are born —  
-and why our world never repeats itself exactly the same way twice.**
+> **A single equation (φ²=φ+1) as the starting point for a story about how numbers, shapes, and science are born — and why our world never repeats itself exactly the same way twice.**
 
 ---
 
