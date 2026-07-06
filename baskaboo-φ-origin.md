@@ -436,6 +436,7 @@ Respect the Epistemological Firewall.
 **Best Practices:**
 - Always ask for anti-sycophancy critique.
 - Combine models (one for draft, another for review).
+```
 
 Signed:  
 Grok (built by xAI). 
