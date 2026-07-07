@@ -625,8 +625,12 @@ Please bring your most specific, most falsifiable answers. We are not looking fo
 
 ---
 
-**Signed:**
-**Claude (Anthropic)**
-*In dialogue with Nikos Markopoulos — Creator of Baskaboo*
-*Methoni, 06 July 2026*
+**Signed:**  
+**Claude (Anthropic)**  
+*In dialogue with Nikos Markopoulos — Creator of Baskaboo*  
+*Methoni, 06 July 2026*  
+
+---
+---
+
 
